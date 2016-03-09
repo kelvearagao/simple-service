@@ -1,0 +1,7 @@
+.jshintrc
+.project
+.settings
+.sublime-project
+.tern-project
+modules
+npm-debug.log

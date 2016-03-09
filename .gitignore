@@ -3,5 +3,5 @@
 .settings
 .sublime-project
 .tern-project
-modules
+node_modules/
 npm-debug.log
